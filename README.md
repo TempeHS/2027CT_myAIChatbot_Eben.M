@@ -1,10 +1,10 @@
 # Project Title
 
-Simple overview of use/purpose.
+My Ai Chatbot
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Creating an AI chatbot that can answer and explain questions in simple, easy-to-understand language. The chatbot should be beginner-friendly and elaborate the answers to programming questions clearly
 
 ## Getting Started
 
@@ -37,8 +37,9 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Mr Jones
-ex. [@benpaddlejones](https://github.com/benpaddlejones)
+ex. Eben M
+ex. [@LelouchviYeager](https://github.com/LelouchviYeager)
+
 
 ## Version History
 
@@ -50,7 +51,7 @@ ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [GNU GPL v3.0] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
