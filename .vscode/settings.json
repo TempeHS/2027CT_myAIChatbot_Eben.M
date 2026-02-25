@@ -21,5 +21,10 @@
     "css": false,
     "SQL": false
   },
-  "chat.agent.enabled": false
+  "chat.agent.enabled": false,
+  "python.testing.pytestArgs": [
+    "."
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true
 }
